@@ -1,4 +1,4 @@
 myRepository
 ============
 
-my test repo
+This is my test repo. Hopefully it works.
